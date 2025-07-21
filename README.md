@@ -22,7 +22,7 @@ JS文档  https://github.com/NiklasKnaack/jquery-svg3dtagcloud-plugin
 - Email: yuuki19970617@163.com
 - 欢迎访问 www.yuukisoul.com 一起学习讨论
 
-#### 联系初始作者
+#### 联系初代作者
 - Email:`i@hoehub.com`
 - 欢迎访问 www.hoehub.com 一起学习讨论
 
@@ -30,4 +30,5 @@ JS文档  https://github.com/NiklasKnaack/jquery-svg3dtagcloud-plugin
 
 - 本项目遵循GPL-3.0开源协议发布。
 - 版本版权所有Copyright © 2025 by Yuuki (http://www.yuukisoul.com)
+- 初代版权所有Copyright © 2018 by Hoe (http://www.hoehub.com)
 - All rights reserved。
